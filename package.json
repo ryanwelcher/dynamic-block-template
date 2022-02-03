@@ -1,0 +1,28 @@
+{
+    "name": "@ryanwelcher/dynamic-block-template",
+    "version": "1.2.2",
+    "description": "A template for use with @wordpress/create-block to support dynamic blocks",
+    "license": "GPL-2.0-or-later",
+    "keywords": [
+      "wordpress",
+      "create block",
+      "block template",
+      "dynamic block"
+    ],
+    "author": {
+      "name": "Ryan Welcher",
+      "url": "https://ryanwelcher.com"
+    },
+    "homepage": "https://github.com/ryanwelcher/create-block-multple-blocks-template",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ryanwelcher/create-block-multple-blocks-template.git"
+    },
+    "bugs": {
+      "url": "https://github.com/ryanwelcher/create-block-multple-blocks-template/issues"
+    },
+    "publishConfig": {
+      "access": "public"
+    }
+  }
+  
