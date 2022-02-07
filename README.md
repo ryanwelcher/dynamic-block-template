@@ -1,6 +1,6 @@
 # Dynamic Block Template
 
-This template will scaffold a plugin that is set up for registering multiple blocks in a single plugin create using the [`@wordpress/create-block`](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block/) tool.
+This template will scaffold a plugin that is set up for registering dynamic block using the [`@wordpress/create-block`](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block/) tool.
 
 It also provides integration with the `@wordpress/env` package for a local development solution.
 
