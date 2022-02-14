@@ -20,7 +20,7 @@ import './style.scss';
 import json from './block.json';
 import edit from './edit';
 
-const {name, ...settings} = json;
+const {name } = json;
 
 /**
  * Every block starts by registering a new block type definition.
@@ -28,7 +28,6 @@ const {name, ...settings} = json;
  * @see https://developer.wordpress.org/block-editor/reference-guides/block-api/block-registration/
  */
 registerBlockType(name, {
-	...settings,
 	/**
 	 * @see ./edit.js
 	 */
